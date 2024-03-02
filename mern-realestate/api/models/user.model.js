@@ -1,5 +1,4 @@
 import mongoose, { mongo } from 'mongoose'
-import { constrainedMemory } from 'process';
 
 const usersSchema = new mongoose.Schema({
     username: {
