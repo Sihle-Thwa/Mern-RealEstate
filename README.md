@@ -1,8 +1,11 @@
-#Real Estate Web App - MERN Stack
-##Overview
+# Real Estate Web App - MERN Stack
+
+## Overview
+
 This is a full-stack web application for real estate management built using the MERN (MongoDB, Express.js, React, Node.js) stack. The application provides a platform for users to browse, search, and manage real estate listings. Users can register, log in, and perform various actions based on their roles, such as adding new properties, updating existing ones, and saving favorite listings.
 
-##Features
+## Features
+
 **User Authentication:** Users can create accounts, log in, and securely authenticate their identity.
 
 **Property Listings:** View a list of available properties with detailed information, including images, price, location, and specifications.
@@ -15,7 +18,7 @@ This is a full-stack web application for real estate management built using the 
 
 **Responsive Design:** The application is designed to be responsive and accessible across various devices, including desktops, tablets, and mobile phones.
 
-##Tech Stack
+## Tech Stack
 **Frontend:** React.js with a responsive and modern user interface.
 
 **Backend:** Node.js with Express.js for the server and API endpoints.
